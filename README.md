@@ -22,10 +22,11 @@ Using Reddit and app reviews to uncover productivity friction for digital profes
 - Added `notebooks/02_scrape_app_reviews.ipynb` (Google Play scraper scaffold)
 - Collected sample reviews (20 each) for Notion, Trello, Slack in `/data/` to validate scraping pipeline and create reproducible sample data
 
-### Day 3 — [Title]
-- [Notebook/file updates]
-- [Data collected or processed]
-- [Purpose/notes]
+### Day 3 — App Review Cleaning & Early EDA
+- Added cleaned review datasets for Notion, Slack, Trello (/data/cleaned/)
+- Implemented and tested cleaning pipeline (normalize dates, remove duplicates)
+- Ran sanity checks: file discovery, stats, date ranges, top words, visual previews
+- Confirmed working scrape → clean → explore pipeline
 
 ### Day 4 — [Title]
 - [Notebook/file updates]
