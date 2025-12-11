@@ -1,6 +1,6 @@
 # Productivity Friction Insight Report
 
-Using Reddit and app reviews to uncover productivity friction for digital professionals. This repository includes notebooks, folder scaffolds, and sample data for exploratory analysis.
+Using Notion, Trello, Slack reviews to uncover productivity friction for digital professionals. This repository includes notebooks, folder scaffolds, and sample data for exploratory analysis.
 
 ---
 
